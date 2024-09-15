@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Machine Learning project [water quality Prediction and Rain Fall Prediction](https://github.com/Bandi-Lavanya/Project_Nest_2.0)
 
-- 🌱 I’m currently learning **MEARN and Machine Learning**
+- 🌱 I’m currently learning **MERN and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://bandi-lavanya.github.io/My-Portfolio/home.html](https://bandi-lavanya.github.io/My-Portfolio/home.html)
 
